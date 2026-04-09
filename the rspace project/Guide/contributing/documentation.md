@@ -25,7 +25,7 @@ Reference documentation for the RSpace REST API, including endpoint specs, authe
 
 If you spot gaps, errors, or missing examples in the API docs, please **[raise an issue on rspace-web](https://github.com/rspace-os/rspace-web/issues)**. For improvements that come alongside API code changes, include the documentation update in your pull request.
 
-### This Playbook
+### This Guide
 The guide you're reading is itself open to contributions. If something is unclear, missing, or out of date, you're welcome to raise an issue or open a pull request directly on the community repository.
 
 
