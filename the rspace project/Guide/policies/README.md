@@ -34,7 +34,7 @@ Policies may be updated to:
 **Major changes** will be communicated through:
 - Office hours announcements
 - Newsletter
-- This playbook
+- This guide
 
 
 ---
