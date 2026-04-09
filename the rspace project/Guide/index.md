@@ -20,7 +20,7 @@
 - [Code Contributions](contributing/code.md) — Backend, frontend, bug fixes, feature implementation
 - [UX & Design](contributing/ux-design.md) — UX research, interface design, usability testing
 - [Integration Development](contributing/integrations.md) — REST API, Python SDK, CLI, MCP integrations
-- [Documentation](contributing/documentation.md) — User guides, developer docs, API docs, this playbook
+- [Documentation](contributing/documentation.md) — User guides, developer docs, API docs, this guide
 - [Templates](contributing/templates.md) — Lab workflow templates — no coding required
 - [Translation](contributing/translation.md) 🔲 — Coming soon
 
