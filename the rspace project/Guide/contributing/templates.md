@@ -13,6 +13,7 @@ Templates are reusable starting points that researchers can import into their ow
 **Vocabularies** — shared controlled lists and field values (e.g. activity types, status values, unit sets) that can be reused across templates to keep data consistent within a lab or community.
 
 ## How to Contribute
+**🚧 Stay tuned, we're preparing everything to release the template repository below in the next weeks.**
 
 All community templates live in the **[rspace-templates repository](https://github.com/rspace-os/rspace-templates)**. The full contribution process — including how to submit, what to include, and how the community review works — is documented in that repository's README.
 
