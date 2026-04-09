@@ -2,7 +2,7 @@
 
 This page lists ongoing UX research projects around RSpace. Community members — UX researchers, designers, RSpace users, and research data management practitioners — are welcome to participate.
 
-If you're considering a UX contribution, also see the **[UX & Design contributing guide](../Guide/contributing/ux-design.md)** for how to get involved more broadly.
+If you're considering a UX contribution, also see the **[UX & Design contributing guide](../the%20rspace%20project/Guide/contributing/ux-design.md)** for how to get involved more broadly.
 
 ---
 
