@@ -8,7 +8,7 @@ This repository is the central hub for the RSpace open source community — a pl
 
 ## What's Here
 
-### 📖 [Community Playbook- Guide to the RSpace Project](the%20rspace%20project/README.md)
+### 📖 [Guide to the RSpace Project](the%20rspace%20project/README.md)
 Your guide to understanding and contributing to the RSpace open source project — covering the project vision, governance, contribution workflows, and policies.
 
 ### 🎙️ [Office Hours](office-hours/)
