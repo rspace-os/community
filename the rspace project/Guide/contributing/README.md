@@ -14,7 +14,7 @@ Thank you for your interest in contributing to RSpace! Contributions can take ma
 | [Code Contributions](code.md) | Backend, frontend, bug fixes, feature implementation |
 | [Integration Development](integrations.md) | REST API, Python SDK, CLI, MCP integrations |
 | [UX & Design](ux-design.md) | UX research, interface design, usability testing |
-| [Documentation](documentation.md) | User guides, developer docs, API docs, this playbook |
+| [Documentation](documentation.md) | User guides, developer docs, API docs, this guide |
 | [Templates](templates.md) | Lab workflow templates — no coding required |
 | [Translation](translation.md) | Translating the UI and documentation |
 
