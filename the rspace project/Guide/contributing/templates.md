@@ -8,7 +8,7 @@ Templates are reusable starting points that researchers can import into their ow
 
 **Document templates** — RSpace documents built on top of Forms that already contain content, structure, and placeholder guidance. Unlike a bare Form (which just defines the fields), a document template gives researchers a ready-to-use starting point — with headings, example entries, and instructional text already in place. Common examples: experimental protocols, safety assessment sheets, lab meeting notes, data collection forms.
 
-**Inventory templates** — pre-configured structures for samples, containers, and equipment, with custom fields and metadata conventions relevant to a specific material type or discipline.
+**Inventory templates** — example structures for samples, containers, and equipment, with custom fields and metadata conventions relevant to a specific material type or discipline.
 
 **Vocabularies** — shared controlled lists and field values (e.g. activity types, status values, unit sets) that can be reused across templates to keep data consistent within a lab or community.
 

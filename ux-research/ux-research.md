@@ -34,7 +34,7 @@ If you're considering a UX contribution, also see the **[UX & Design contributin
 
 ### AI-Supported Workflows
 
-**Goal:** Explore how researchers mentally organise and structure their research data to inform a more intuitive information architecture and efficient workflows within RSpace.
+**Goal:** Explore how researchers work with AI tools and how RSpace can support them in those workflows.
 
 **Methodology:** Remote interviews
 
