@@ -1,5 +1,13 @@
 Here we collect community projects around RSpace, the RSpace API, etc. If you work on or come across a project involving RSpace, please let us know, so that we can get in touch with you or the project maintainers and add your/their project to this page. 
 
+## New additions
+### RSpace command line tool
+Command line tool for RSpace ELN and Inventory, based on the [rspace python client](https://github.com/rspace-os/rspace-client-python). Allows you or AI tools to access RSpace from your terminal.
+
+🔗 [https://github.com/tilorspace/rspacectl](https://github.com/tilorspace/rspacectl)
+
+## All projects
+
 ### RSpacer 
 RSpacer is a wrapper for the RSpace API, so that you can access RSpace directly from R:
 
@@ -36,3 +44,5 @@ A prototype web clipper to save web content to RSpace for Chrome and Chromium-ba
 Connect RSpace to Langchain AI for summarising and chatting with your RSpace content.
 
 🔗 https://github.com/langchain-ai/langchain-community/blob/main/libs/community/langchain_community/document_loaders/rspace.py
+
+
