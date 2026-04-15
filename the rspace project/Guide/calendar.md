@@ -3,7 +3,7 @@
 On this page we will document any project-related community events. Additionally, these will also be announced via the [mailing list](https://mailchi.mp/bbfd16a57e72/rspace-open-source) as well as included on the [ResearchSpace events page](https://www.researchspace.com/community#events).
 ## Upcoming events
 
-- Open-Source Office hour #8 - **June 17th 2026, 15:00 CEST** Register [here](https://events.teams.microsoft.com/event/b6173a1c-3f6b-4212-bd63-f1f16b7df677@b01eeac5-a192-4621-90cb-b956e9ac5e26)
+- Open-Source Office hour #8 - **June 17th 2026, 15:00 CEST** - Register [here](https://events.teams.microsoft.com/event/b6173a1c-3f6b-4212-bd63-f1f16b7df677@b01eeac5-a192-4621-90cb-b956e9ac5e26)
 ---
 ## Past events
 
