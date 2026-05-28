@@ -48,6 +48,8 @@ Whether you're a researcher, developer, designer, institution, or infrastructure
 
 → **[Trademarks](Guide/policies/trademarks.md)** - Using RSpace branding
 
+→ **[AI Policy](https://github.com/rspace-os/.github/blob/main/AI_POLICY.md)** - Using AI tools when contributing
+
 
 ---
 ## 🔗 Essential Links
