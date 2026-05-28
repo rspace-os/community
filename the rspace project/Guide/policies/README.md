@@ -21,6 +21,9 @@ How to report security vulnerabilities and our response process.
 ### [Trademarks](trademarks.md)
 Guidelines for using RSpace name, logo, and trademarks.
 
+### [AI Policy](https://github.com/rspace-os/.github/blob/main/AI_POLICY.md)
+Guidelines for using AI tools when contributing code, content, and communications. Covers disclosure requirements, human-in-the-loop obligations, and responsible use. (*This policy is new and will evolve as our understanding of responsible AI use in open source develops.*)
+
 ---
 
 ## Policy Updates
