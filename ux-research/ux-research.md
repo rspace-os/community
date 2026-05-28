@@ -56,7 +56,7 @@ If you're considering a UX contribution, also see the **[UX & Design contributin
 
 **Status:** Ongoing 🟢
 
-→ *Sign-up link coming soon — reach out at opensource@researchspace.com to express interest*
+→ [Sign up for an interview](https://outlook.office.com/bookwithme/user/705d73db64544c50a3069bd330389789@researchspace.com/meetingtype/wgvnOW-NGkipCywuul5-KA2?bookingcode=7c197d48-e34e-4f2d-b076-1fc50a956669&anonymous&ismsaljsauthenabled&ep=mLinkFromTile)
 
 ---
 
