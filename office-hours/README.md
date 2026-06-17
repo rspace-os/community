@@ -11,6 +11,7 @@ Upcoming sessions and registration links are listed in the [Community Calendar](
 ## Archive
 | # | Date | Slides | Meeting Notes |
 |---|------|--------|---------------|
+| #8 | Jun 17, 2026 | [Slides](2026-06-17%20RSpace%20open%20source%20office%20hours%20%238.pdf) | [Notes](https://docs.google.com/document/d/1VrcAkvqkxHc2EiyFUwce_yClXSl97YAzBqzHveKeaN0/edit?tab=t.0) |
 | #7 | Apr 15, 2026 | [Slides](2026-04-15%20RSpace%20open%20source%20office%20hours%20%237.pdf) | [Notes](https://docs.google.com/document/d/1DWPFOSpGG75USBTa7kUSNWrHGORG-_40JMFhBVBJY-4/edit?tab=t.0) |
 | #6 | Feb 11, 2026 | [Slides](2026-02-11%20RSpace%20open%20source%20office%20hours%20%236.pdf) | [Notes](https://docs.google.com/document/d/1E-onR_P4zDHi2V8ZPpGa4ALfJbQ4kJpa6b14NUzaEiQ/edit?usp=sharing) |
 | #5 | Nov 12, 2025 | [Slides](2025-11-12%20RSpace%20open%20source%20office%20hours%20%235.pdf) | [Notes](https://docs.google.com/document/d/1GROK-tpHI69UtF1ibV5AppvDtTVk0dFhlT23dNJ42cQ/edit?usp=sharing) |
