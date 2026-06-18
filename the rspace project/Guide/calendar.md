@@ -4,7 +4,7 @@ On this page we will document any project-related community events. Additionally
 
 ## Upcoming events
 
-- Open-Source Office hour #9 - **September 9th 2026, 15:00 CEST** - Register [here](https://events.teams.microsoft.com/event/b6173a1c-3f6b-4212-bd63-f1f16b7df677@b01eeac5-a192-4621-90cb-b956e9ac5e26)
+- Open-Source Office hour #9 - **September 9th 2026, 15:00 CEST** - Register [here](https://events.teams.microsoft.com/event/c06b4054-f556-48b7-a502-cb5f8653d415@b01eeac5-a192-4621-90cb-b956e9ac5e26)
 
 ---
 
