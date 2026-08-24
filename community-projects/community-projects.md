@@ -1,12 +1,17 @@
 Here we collect community projects around RSpace, the RSpace API, etc. If you work on or come across a project involving RSpace, please let us know, so that we can get in touch with you or the project maintainers and add your/their project to this page. 
 
 ## New additions
+### Rspace_log
+A simple tool to automate filling in forms using the RSpace API. Can be used interactively or in an automated manner. Developed at UCL to interface an instrument with RSpace so that metadata about a measurement can be recorded.
+
+🔗 [https://gitlab.com/inator-project/Rspace_log](https://gitlab.com/inator-project/Rspace_log)
+
+## All projects
+
 ### RSpace command line tool
 Command line tool for RSpace ELN and Inventory, based on the [rspace python client](https://github.com/rspace-os/rspace-client-python). Allows you or AI tools to access RSpace from your terminal.
 
 🔗 [https://github.com/tilorspace/rspacectl](https://github.com/tilorspace/rspacectl)
-
-## All projects
 
 ### RSpacer 
 RSpacer is a wrapper for the RSpace API, so that you can access RSpace directly from R:
