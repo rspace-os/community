@@ -1,6 +1,11 @@
 Here we collect community projects around RSpace, the RSpace API, etc. If you work on or come across a project involving RSpace, please let us know, so that we can get in touch with you or the project maintainers and add your/their project to this page. 
 
 ## New additions
+### SiLA RSpace connector
+A SiLA 2 connector that bridges RSpace ELN to any SiLA-compliant lab automation client, enabling interoperability between RSpace and laboratory automation systems that follow the SiLA 2 standard. It provides standardized access to RSpace documents, samples, observations, containers, and files. Developed by GWC GmbH.
+
+🔗 [https://gitlab.com/grawfin/sila-rspace-connector](https://gitlab.com/grawfin/sila-rspace-connector)
+
 ### Rspace_log
 A simple tool to automate filling in forms using the RSpace API. Can be used interactively or in an automated manner. Developed at UCL to interface an instrument with RSpace so that metadata about a measurement can be recorded.
 
