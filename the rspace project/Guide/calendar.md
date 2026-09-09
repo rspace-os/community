@@ -4,13 +4,13 @@ On this page we will document any project-related community events. Additionally
 
 ## Upcoming events
 
-- Open-Source Office hour #9 - **September 9th 2026, 15:00 CEST** - Register [here](https://events.teams.microsoft.com/event/c06b4054-f556-48b7-a502-cb5f8653d415@b01eeac5-a192-4621-90cb-b956e9ac5e26)
 - Open-Source Office hour #10 - **November 18th 2026, 15:00 CET** - Register [here](https://events.teams.microsoft.com/event/cfee6e98-2344-4a8d-a112-3db0f00f3e3c@b01eeac5-a192-4621-90cb-b956e9ac5e26)
 
 ---
 
 ## Past events
 
+- Open-Source Office hour #9 - Sep 9th 2026, 15:00 CEST ([Slides](https://github.com/rspace-os/community/blob/main/office-hours/2026-09-09%20RSpace%20open%20source%20office%20hours%20%239.pdf) | [Meeting notes](https://docs.google.com/document/d/1EdH-AtHKMLgh1JMh4FwnKZLkpRPv_abFXLiuMZqyusw/edit?usp=sharing))
 - Open-Source Office hour #8 - Jun 17th 2026, 15:00 CEST ([Slides](https://github.com/rspace-os/community/blob/main/office-hours/2026-06-17%20RSpace%20open%20source%20office%20hours%20%238.pdf) | [Meeting notes](https://docs.google.com/document/d/1VrcAkvqkxHc2EiyFUwce_yClXSl97YAzBqzHveKeaN0/edit?tab=t.0))
 - Open-Source Office hour #7 - Apr 15th 2026, 14:00 CEST ([Slides](2026-04-15%20RSpace%20open%20source%20office%20hours%20%237.pdf) | [Meeting Notes](https://docs.google.com/document/d/1DWPFOSpGG75USBTa7kUSNWrHGORG-_40JMFhBVBJY-4/edit?tab=t.0))
 - 👋 First 2026 Office hour #6 - Feb 11th 2026, 15:00 CET ([Slides](https://github.com/rspace-os/community/blob/main/office-hours/2026-02-11%20RSpace%20open%20source%20office%20hours%20%236.pdf) | [Meeting notes](https://docs.google.com/document/d/1E-onR_P4zDHi2V8ZPpGa4ALfJbQ4kJpa6b14NUzaEiQ/edit?usp=sharing))

@@ -1,6 +1,11 @@
 Here we collect community projects around RSpace, the RSpace API, etc. If you work on or come across a project involving RSpace, please let us know, so that we can get in touch with you or the project maintainers and add your/their project to this page. 
 
 ## New additions
+### RSpace tool for Open WebUI
+An Open WebUI tool that turns the RSpace ELN into an in-house AI agent. Derived from the RSpace MCP server, it runs inside Open WebUI alongside locally hosted LLMs via Ollama, so no data has to leave the institute. Each user manages their own RSpace API key through Open WebUI's per-user credential store. Developed at the Leibniz Institute on Aging – Fritz Lipmann Institute (FLI) Jena.
+
+🔗 [https://openwebui.com/posts/openwebui_rspace_cc0ec521](https://openwebui.com/posts/openwebui_rspace_cc0ec521)
+
 ### SiLA RSpace connector
 A SiLA 2 connector that bridges RSpace ELN to any SiLA-compliant lab automation client, enabling interoperability between RSpace and laboratory automation systems that follow the SiLA 2 standard. It provides standardized access to RSpace documents, samples, observations, containers, and files. Developed by GWC GmbH.
 
