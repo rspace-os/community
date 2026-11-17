@@ -5,6 +5,7 @@ On this page we will document any project-related community events. Additionally
 ## Upcoming events
 
 - Open-Source Office hour #10 - **November 18th 2026, 15:00 CET** - Register [here](https://events.teams.microsoft.com/event/cfee6e98-2344-4a8d-a112-3db0f00f3e3c@b01eeac5-a192-4621-90cb-b956e9ac5e26)
+- Open-Source Office hour #11 - **January 27th 2027, 15:00 CET** - Register [here](https://events.teams.microsoft.com/event/fd9c4fea-e0f1-4034-98cf-9009a29b424c@b01eeac5-a192-4621-90cb-b956e9ac5e26)
 
 ---
 
